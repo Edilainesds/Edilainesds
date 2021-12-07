@@ -14,7 +14,6 @@
  ##
  
 <div> 
-![download20211202175748](https://user-images.githubusercontent.com/88170242/145105384-2bc1c43e-2995-4d1b-8d14-37d0a7f78788.png)
   <a href = "mailto:edilainef234@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  </div>
 
